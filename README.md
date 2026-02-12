@@ -4,7 +4,7 @@ A classic Asteroids arcade game built with HTML5 Canvas and vanilla JavaScript. 
 
 ## Play
 
-Open `index.html` in any modern browser. No build step or dependencies required.
+[Play online](https://andyrat33.github.io/Asteroids/) or open `index.html` locally in any modern browser. No build step or dependencies required.
 
 ## Controls
 

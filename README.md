@@ -1,5 +1,7 @@
 # Asteroids
 
+![Asteroids gameplay](Asteroids.jpg)
+
 A classic Asteroids arcade game built with HTML5 Canvas and vanilla JavaScript. Faithful to the original Atari vector-style aesthetic with all sound effects generated procedurally using the Web Audio API.
 
 ## Play
